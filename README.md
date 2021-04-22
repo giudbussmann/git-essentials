@@ -15,3 +15,4 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
 ## Some new stuf in the readme
 Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempLorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor $
 
+To say something else (master branch)
